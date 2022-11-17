@@ -10,9 +10,9 @@
 
 3- [Solar Radiation and Surface Energy Balance](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_03.html)
 
-4- [Evapotranspiration](https://https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_04.html)
+4- [Evapotranspiration](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_04.html)
 
-5- [Infiltration](https://https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_05.html)
+5- [Infiltration](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_05.html)
 
 6- [Surface Water and Runoff Processes](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_06.html)
 
