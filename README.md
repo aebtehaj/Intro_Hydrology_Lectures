@@ -4,7 +4,7 @@
 </p>
 
 ## An Introduction to Hydrology
-1- [Hydrologic Water Cycle and Mass Balance](https://htmlpreview.github.io/?)
+1- [Hydrologic Water Cycle and Mass Balance](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_01.html)
 
 2- [Atmospheric Water and Precipitation](https://htmlpreview.github.io/?)
 
