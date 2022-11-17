@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width=30% height=30% src="https://user-images.githubusercontent.com/46690843/202559455-0d8a242a-7f08-418c-9d5d-b8cce7fbdd6e.gif">
+  <img width=30% height=30% src="https://user-images.githubusercontent.com/46690843/202560451-a55bc779-0df9-44e8-8429-ebaeb156a4a1.gif">
 </p>
 
 ## An Introduction to Hydrology
