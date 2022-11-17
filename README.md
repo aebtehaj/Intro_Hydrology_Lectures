@@ -6,18 +6,18 @@
 ## An Introduction to Hydrology
 1- [Hydrologic Water Cycle and Mass Balance](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_01.html)
 
-2- [Atmospheric Water and Precipitation](https://htmlpreview.github.io/?)
+2- [Atmospheric Water and Precipitation](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_02.html)
 
-3- [Solar Radiation and Surface Energy Balance](https://htmlpreview.github.io/?)
+3- [Solar Radiation and Surface Energy Balance](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_03.html)
 
-4- [Evapotranspiration](https://https://htmlpreview.github.io/?)
+4- [Evapotranspiration](https://https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_03.html)
 
-5- [Infiltration](https://https://htmlpreview.github.io/?)
+5- [Infiltration](https://https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_04.html)
 
-6- [Surface Water and Runoff Processes](https://htmlpreview.github.io/?)
+6- [Surface Water and Runoff Processes](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_05.html)
 
-7- [Unit Hydrograpgh and Runoff Routing](https://htmlpreview.github.io/?)
+7- [Unit Hydrograpgh and Runoff Routing](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_06.html)
 
-8- [Stream Hydraulics](https://htmlpreview.github.io/?)
+8- [Stream Hydraulics](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_07.html)
 
-9- [Statistical Hydrology](https://htmlpreview.github.io/?)
+9- [Statistical Hydrology](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_08.html)
