@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img width=30% height=30% src="https://user-images.githubusercontent.com/46690843/202559455-0d8a242a-7f08-418c-9d5d-b8cce7fbdd6e.gif">
+</p>
+
 ## An Introduction to Hydrology
 1- Hydrologic Water Cycle and Mass Balance
 
