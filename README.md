@@ -20,6 +20,6 @@ This repository contains my MATLAB live lecture notes in HTML formal. Numerous r
 
 7- [Unit Hydrograpgh and Runoff Routing](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_07.html)
 
-8- [Stream Hydraulics](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_08.html)
+8- [Stream Hydraulics]
 
-9- [Statistical Hydrology](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_09.html)
+9- [Statistical Hydrology]
