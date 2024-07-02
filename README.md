@@ -1,6 +1,6 @@
 # An Introduction to Hydrologic Science and Design
 
-This repository contains my MATLAB live lecture notes in HTML formal. Numerous references are used to produce these lecture notes. The MATLAB live files will be added soon. 
+This repository contains my MATLAB live lecture notes in HTML format. Numerous references are used to produce these lecture notes. The MATLAB live files will be added soon. 
 
 <p align="center">
   <img width=30% height=30% src="https://user-images.githubusercontent.com/46690843/202560451-a55bc779-0df9-44e8-8429-ebaeb156a4a1.gif">
